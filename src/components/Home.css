@@ -1,7 +1,5 @@
 .home {
-    display:flex;
+    display: flex;
+    flex-direction: column;
 }
-
-.home-container {
-    padding-left: 250px;
-}
+  
